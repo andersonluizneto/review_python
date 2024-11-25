@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 from datetime import datetime, timedelta
 
 class Projeto:
@@ -110,6 +111,6 @@ def main():
 
     
 
-if __name__ ==  main:
+if __name__ =='__main__':
     main()
     
